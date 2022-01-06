@@ -1,0 +1,1 @@
+<h1>Author panel {{auth()->user()}}</h1>
